@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\bin\Debug\net6.0\48th.exe
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\bin\Debug\net6.0\48th.deps.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\bin\Debug\net6.0\48th.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\bin\Debug\net6.0\48th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\bin\Debug\net6.0\48th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\refint\48th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\48th.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\48th\48th\obj\Debug\net6.0\ref\48th.dll

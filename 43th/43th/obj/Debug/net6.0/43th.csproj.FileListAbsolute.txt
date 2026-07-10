@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\bin\Debug\net6.0\43th.exe
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\bin\Debug\net6.0\43th.deps.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\bin\Debug\net6.0\43th.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\bin\Debug\net6.0\43th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\bin\Debug\net6.0\43th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\refint\43th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\43th.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\43th\43th\obj\Debug\net6.0\ref\43th.dll

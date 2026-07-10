@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\bin\Debug\net6.0\34th.exe
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\bin\Debug\net6.0\34th.deps.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\bin\Debug\net6.0\34th.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\bin\Debug\net6.0\34th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\bin\Debug\net6.0\34th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\refint\34th.dll
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.pdb
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\34th.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\PROGRAM\C#\34th\34th\obj\Debug\net6.0\ref\34th.dll
